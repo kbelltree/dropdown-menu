@@ -1,6 +1,6 @@
 {
   "name": "@k-bell/k-bell-dropdown-menu-practice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add on-click dropdown function to menu link. This package is intended for educational use and as a learning exercise (The Odin Project: Dynamic User Interactions Practice)",
   "main": "src/index.js",
   "directories": {
