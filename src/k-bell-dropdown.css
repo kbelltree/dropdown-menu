@@ -1,0 +1,26 @@
+/* Removes list style and padding from lists */
+ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+/* Removes underline from all anchor tags */
+a {
+  text-decoration: none;
+}
+
+/* Positions the dropdown menu relatively to its parent */
+.k-bell-dropdown {
+  position: relative;
+}
+
+/* IMPORTANT: Do not change this selector. Hides the dropdown content by default */
+.k-bell-dropdown + ul {
+  display: none;
+  position: absolute;
+}
+
+/* IMPORTANT: Do not change this selector. Shows the dropdown content when active */
+.k-bell-dropdown + ul.is-active {
+  display: block;
+}
