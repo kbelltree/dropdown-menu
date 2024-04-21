@@ -251,7 +251,7 @@ import "your-style.css"; // Your custom styles
 Here’s what the default setup looks like:
 
 <div align="center"> 
-        <img src="./k-bell-dropdown-menu-preview.gif" alt="Drop-down Menu Practice Installation Preview by Keiko S. 2024" width=30% height=30%>
+        <img src="https://github.com/kbelltree/dropdown-menu/blob/main/k-bell-dropdown-menu-preview.gif?raw=true" alt="Dropdown Menu Practice Installation Preview by Keiko S. 2024" width=30% height=30%>
     </a>
 </div>
 
@@ -259,7 +259,7 @@ Here’s what the default setup looks like:
 
 See how the package can be transformed with a bit of customization:
 <div align="center"> 
-        <img src="./k-bell-dropdown-menu-package-example-with-added-styling.gif" alt="Practice Drop-down Menu NPM Package Customized Look Demo by Keiko S. 2024" width=80% height=80%>
+        <img src="https://github.com/kbelltree/dropdown-menu/blob/main/k-bell-dropdown-menu-package-example-with-added-styling.gif?raw=true" alt="Practice Drop-down Menu NPM Package Customized Look Demo by Keiko S. 2024" width=80% height=80%>
     </a>
 </div>
 
