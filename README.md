@@ -2,6 +2,14 @@
 
 This NPM package is developed as part of a tutorial from [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions), aimed at creating dynamic, single-level dropdown menus using **JavaScript** only or including **CSS**. For an in-depth guide, refer to [the lesson on 'Dropdown Menus'](https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions#drop-down-menus).
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Preview](#preview)
+- [Enhanced Example Preview](#enhanced-example-preview)
+- [Final Thoughts](#final-thoughts)
+
 ## Description
 
 The `@k-bell/k-bell-dropdown-menu-practice` simplifies the implementation of single-level dropdown menus on webpages. By initializing once, the package enables all dropdowns to toggle visibility seamlessly. This tool is designed for handling multiple dropdowns without the need for individual configurations.
@@ -66,6 +74,7 @@ import "@k-bell/k-bell-dropdown-menu-practice/src/k-bell-dropdown.css"; // IMPOR
 attachDropdownEffectOnLoad();
 ```
 
+***
 ### addDropdownToEachMenuAEl Function
 
 This function dynamically adds dropdown content to specified menu anchors identified by unique IDs.
@@ -115,7 +124,7 @@ const dropdownMenuConfig = [
 // Execute the function to add dropdowns
 addDropdownToEachMenuAEl(dropdownMenuConfig);
 ```
-
+***
 ### Comprehensive Usage:
 
 This comprehensive example demonstrates how to dynamically add dropdown content to specific menu anchors and apply dropdown effects across all configured dropdowns on a webpage.
@@ -166,7 +175,7 @@ const dropdownMenuConfig = [
 addDropdownToEachMenuAEl(dropdownMenuConfig);
 attachDropdownEffectOnLoad();
 ```
-
+***
 ### Configuration Template
 
 Below is a template for configuring the dropdown menus to copy and paste:
@@ -246,11 +255,11 @@ Here’s what the default setup looks like:
     </a>
 </div>
 
-## Enhanced Preview Example
+## Enhanced Example Preview
 
 See how the package can be transformed with a bit of customization:
 <div align="center"> 
-        <img src="./k-bell-dropdown-menu-package-example-with-added-styling.gif" alt="Practice Drop-down Menu NPM Package Customized Look Demo by Keiko S. 2024" width=60% height=60%>
+        <img src="./k-bell-dropdown-menu-package-example-with-added-styling.gif" alt="Practice Drop-down Menu NPM Package Customized Look Demo by Keiko S. 2024" width=80% height=80%>
     </a>
 </div>
 
