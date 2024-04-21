@@ -200,7 +200,7 @@ const dropdownMenuConfig = [
   // Add additional menu configurations as needed
 ];
 ```
-
+***
 ### Update Styling Rules
 
 **CSS**
