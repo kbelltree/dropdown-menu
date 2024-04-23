@@ -30,7 +30,7 @@ The `@k-bell/k-bell-dropdown-menu-practice` simplifies the implementation of sin
    - Provides essential styles for the functioning of the dropdown effects and includes basic styling that can be easily adapted or extended.
 
 ## Quick Start
-For quick installation and basic usage instructions, please visit my [Usage Guide]()
+For quick installation and basic usage instructions, please visit my [Usage Guide](https://github.com/kbelltree/dropdown-menu/blob/main/USAGE.md)
 
 ## Preview
 
