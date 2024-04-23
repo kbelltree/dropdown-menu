@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kbelltree/dropdown-menu.git"
+    "url": "git+https://github.com/kbelltree/dropdown-menu.git"
   },
   "keywords": [
     "experiment",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/kbelltree/dropdown-menu/issues"
   },
-  "homepage": "https://github.com/kbelltree/dropdown-menu#readme",
+  "homepage": "https://github.com/kbelltree/dropdown-menu/blob/main/USAGE.md",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
